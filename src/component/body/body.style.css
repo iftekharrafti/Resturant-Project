@@ -1,0 +1,16 @@
+.main-img{
+    opacity: 0.6;
+}
+.card-title{
+    color: #383B3E;
+    font-size:30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.card-body{
+    padding:0 !important;
+}
+
+.menu-details-body{
+    padding: 15px !important;
+}
